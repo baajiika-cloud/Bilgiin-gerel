@@ -1,0 +1,17 @@
+{
+  "name": "Билгийн Гэрэл",
+  "short_name": "Билгийн Гэрэл",
+  "lang": "mn",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071e2b",
+  "theme_color": "#071e2b",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
